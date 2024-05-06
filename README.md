@@ -1,5 +1,6 @@
 # KardsAFK4EXP
 trash team made trash game, good job 1939 
+
 Kards挂机脚本，任意国家卡组挂机，稳定防封
 
 # 使用方法
