@@ -1,0 +1,5 @@
+pyScreeze==0.1.29
+numpy==1.26.4
+opencv_python==4.9.0.80
+PyAutoGUI==0.9.54
+PyGetWindow==0.0.9
