@@ -1,8 +1,0 @@
-# 版本固定很重要：pyscreeze 0.1.x 找不到图时返回 None，
-# 1.x 起改为抛 ImageNotFoundException。kards.py 里的 _safe_locate()
-# 两种行为都兼容，但仍建议按此版本安装以避免其他隐性差异。
-pyScreeze==0.1.29
-numpy==1.26.4
-opencv_python==4.9.0.80
-PyAutoGUI==0.9.54
-PyGetWindow==0.0.9
